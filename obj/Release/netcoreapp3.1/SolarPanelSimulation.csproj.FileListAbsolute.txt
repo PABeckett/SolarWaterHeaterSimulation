@@ -1,0 +1,11 @@
+C:\Users\pbeck\Desktop\SolarThermo\bin\Release\netcoreapp3.1\SolarPanelSimulation.exe
+C:\Users\pbeck\Desktop\SolarThermo\bin\Release\netcoreapp3.1\SolarPanelSimulation.deps.json
+C:\Users\pbeck\Desktop\SolarThermo\bin\Release\netcoreapp3.1\SolarPanelSimulation.runtimeconfig.json
+C:\Users\pbeck\Desktop\SolarThermo\bin\Release\netcoreapp3.1\SolarPanelSimulation.runtimeconfig.dev.json
+C:\Users\pbeck\Desktop\SolarThermo\bin\Release\netcoreapp3.1\SolarPanelSimulation.dll
+C:\Users\pbeck\Desktop\SolarThermo\bin\Release\netcoreapp3.1\SolarPanelSimulation.pdb
+C:\Users\pbeck\Desktop\SolarThermo\obj\Release\netcoreapp3.1\SolarPanelSimulation.csprojAssemblyReference.cache
+C:\Users\pbeck\Desktop\SolarThermo\obj\Release\netcoreapp3.1\SolarPanelSimulation.AssemblyInfoInputs.cache
+C:\Users\pbeck\Desktop\SolarThermo\obj\Release\netcoreapp3.1\SolarPanelSimulation.AssemblyInfo.cs
+C:\Users\pbeck\Desktop\SolarThermo\obj\Release\netcoreapp3.1\SolarPanelSimulation.dll
+C:\Users\pbeck\Desktop\SolarThermo\obj\Release\netcoreapp3.1\SolarPanelSimulation.pdb
